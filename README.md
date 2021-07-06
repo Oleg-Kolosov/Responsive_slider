@@ -1,6 +1,6 @@
 # Responsive Slider
 
-[watch demo]()
+[watch demo](https://oleg-kolosov.github.io/Responsive_slider/)
 
 
 ### Author
